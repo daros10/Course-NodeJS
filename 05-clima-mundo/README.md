@@ -1,4 +1,4 @@
-## APlicacion del clima por consola
+## Aplicacion del clima por consola
 
 Instalacion de paquetes
 
